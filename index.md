@@ -1,5 +1,10 @@
-## Welcome to GitHub Pages
+# 动态简历
 
-You can use the [editor on GitHub](https://github.com/tbbkhk/tbbkhk.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# 介绍
+个人简历-纯静态页面，无后台
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+预览 ➡️ https://ayjcsgm.github.io/resume/
+
+
+# 后续
+如果觉得还行，那就点个star吧。｡◕ᴗ◕｡
